@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s -w \"\\\\nHTTP_STATUS: %{http_code}\" \"https://risk-backend.ambitiousbeach-281d2f32.australiaeast.azurecontainerapps.io/risk\")",
+      "mcp__ide__getDiagnostics"
+    ]
+  }
+}
