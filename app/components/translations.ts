@@ -7,7 +7,7 @@ export const translations = {
       contact: "Contact"
     },
     hero: {
-      title: "Theo Zhang",
+      title: "Yuzhe(Theo) Zhang",
       subtitle: "Finance PhD Candidate @ University of Otago | CFA Charterholder | ML Researcher",
       bio: "Specializing in the intersection of deep finance domain expertise and advanced machine learning. Currently focused on AI-driven financial risk management.",
       cta1: "View Projects",
